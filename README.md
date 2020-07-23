@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👯 I’m looking to collaborate on making flussonic alternative
+- 👯 I’m looking to collaborate on making flussonic alternative in golang 
 
 
 
