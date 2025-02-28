@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am golang dev and i like my stack: https://go.dev/ https://data-star.dev https://nats.io https://templ.guide sqlite/mariadb 
 
 
 
